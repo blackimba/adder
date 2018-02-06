@@ -1,0 +1,22 @@
+{
+  "name": "adder2",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackimba/adder.git"
+  },
+  "keywords": [
+    "add"
+  ],
+  "author": "blackimba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackimba/adder/issues"
+  },
+  "homepage": "https://github.com/blackimba/adder#readme"
+}
